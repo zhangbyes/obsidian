@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e2da8b067a5059",
+        "id": "216fa54bc2661ecd",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d740caa8eb50cc",
+            "id": "b6acd3f08e99015d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "univer-sheet",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.usheet"
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -160,12 +158,28 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "univer:Univer": false
     }
   },
-  "active": "4fd7cb37c913cb40",
+  "active": "b6acd3f08e99015d",
   "lastOpenFiles": [
-    "欢迎.md",
-    "README.md"
+    "Untitled.xlsx",
+    "Untitled.usheet",
+    "头寸管理-主流程数据流转说明/Excel 2025-01-14.sheet.md",
+    "README.md",
+    "Untitled.sheet",
+    "excalidraw 25-01-14 11.51.04.ex",
+    "Untitled.loom",
+    "头寸管理-主流程数据流转说明/Untitled.loom",
+    "头寸管理-主流程数据流转说明/Excel 2025-01-14.univer.md",
+    "头寸管理-主流程数据流转说明/1 采购合同 Excel 2025-01-14 11.36.18.univer.md",
+    "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
+    "头寸管理-主流程数据流转说明/0 意向.md",
+    "头寸管理-主流程数据流转说明",
+    "价格管理/整体设计.md",
+    "价格管理",
+    "欢迎.md"
   ]
 }
