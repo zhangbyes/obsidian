@@ -11,15 +11,44 @@
             "id": "b6acd3f08e99015d",
             "type": "leaf",
             "state": {
-              "type": "univer-sheet",
+              "type": "excalidraw_cn",
               "state": {
-                "file": "Untitled.usheet"
+                "file": "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "整体设计 excalidraw 25-01-13 06.20.57"
+            }
+          },
+          {
+            "id": "289e86db11e19af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "头寸管理-模型设计/码表字典.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "码表字典"
+            }
+          },
+          {
+            "id": "1587bbf7fd0e9f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "头寸管理-模型设计/码表字典.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "码表字典"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,17 +120,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "头寸管理-模型设计/码表字典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "码表字典 的反向链接列表"
             }
           },
           {
@@ -110,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "头寸管理-模型设计/码表字典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "码表字典 的出链列表"
             }
           },
           {
@@ -137,18 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md"
+                "file": "头寸管理-模型设计/码表字典.md"
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "码表字典 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,19 +191,22 @@
       "univer:Univer": false
     }
   },
-  "active": "b6acd3f08e99015d",
+  "active": "1587bbf7fd0e9f02",
   "lastOpenFiles": [
-    "Untitled.xlsx",
-    "Untitled.usheet",
-    "头寸管理-主流程数据流转说明/Excel 2025-01-14.sheet.md",
     "README.md",
+    "头寸管理-模型设计/采购对象（多头）.md",
+    "头寸管理-模型设计/码表字典.md",
+    "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
+    "头寸管理-模型设计",
+    "Untitled.usheet",
+    "Untitled.xlsx",
+    "头寸管理-主流程数据流转说明/Excel 2025-01-14.sheet.md",
     "Untitled.sheet",
     "excalidraw 25-01-14 11.51.04.ex",
     "Untitled.loom",
     "头寸管理-主流程数据流转说明/Untitled.loom",
     "头寸管理-主流程数据流转说明/Excel 2025-01-14.univer.md",
     "头寸管理-主流程数据流转说明/1 采购合同 Excel 2025-01-14 11.36.18.univer.md",
-    "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
     "头寸管理-主流程数据流转说明/0 意向.md",
     "头寸管理-主流程数据流转说明",
     "价格管理/整体设计.md",
