@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#【采销头寸分配单】，要求",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,6 +89,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "348ce91d98278abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "境内&境外销售发货 的出链列表"
+            }
+          },
+          {
             "id": "41287a5fac97f924",
             "type": "leaf",
             "state": {
@@ -99,25 +114,11 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "境内&境外销售发货 的反向链接列表"
-            }
-          },
-          {
-            "id": "348ce91d98278abc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "头寸管理-模型设计/码表字典.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "码表字典 的出链列表"
             }
           },
           {
@@ -139,13 +140,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "头寸管理-模型设计/码表字典.md"
+                "file": "头寸管理-主流程数据流转说明/境内&境外销售发货.md"
               },
               "icon": "lucide-list",
-              "title": "码表字典 的大纲"
+              "title": "境内&境外销售发货 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,13 +168,15 @@
   },
   "active": "1587bbf7fd0e9f02",
   "lastOpenFiles": [
-    "头寸管理-模型设计/码表字典.md",
+    "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
     "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
+    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
+    "README.md",
+    "头寸管理-模型设计/码表字典.md",
     "excalidraw 25-01-16 03.10.07.ex",
     "Untitled.usheet",
     "头寸管理-主流程数据流转说明/未命名.canvas",
     "头寸管理-模型设计/采购对象（多头）.md",
-    "README.md",
     "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
     "头寸管理-模型设计",
     "Untitled.xlsx",
