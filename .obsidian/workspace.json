@@ -156,7 +156,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ed6260e46e370639",
+  "active": "c336545fb4db0396",
   "lastOpenFiles": [
     "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
     "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
