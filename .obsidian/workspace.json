@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ea1e525c6d654be8",
+        "id": "8107d066ae1c1a52",
         "type": "tabs",
         "children": [
           {
-            "id": "30ad39d344485016",
+            "id": "ed6260e46e370639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "头寸管理-主流程数据流转说明/销售在途出仓单.md",
+                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "销售在途出仓单"
-            }
-          },
-          {
-            "id": "f545cd2c5474a638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "境内&境外销售发货"
+              "title": "货物流向通知单"
             }
           }
         ]
@@ -88,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,61 +89,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "348ce91d98278abc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/采购入仓单.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "采购入仓单 的出链列表"
-            }
-          },
-          {
-            "id": "41287a5fac97f924",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/销售在途出仓单.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "销售在途出仓单 的反向链接列表"
-            }
-          },
-          {
             "id": "71df81e97b5a21e3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "头寸管理-主流程数据流转说明/销售在途出仓单.md"
+                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md"
               },
               "icon": "lucide-list",
-              "title": "销售在途出仓单 的大纲"
-            }
-          },
-          {
-            "id": "f4ef8aaf2fe2b95b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "title": "货物流向通知单 的大纲"
             }
           },
           {
@@ -170,9 +109,54 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "209cb2a061089ab4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "货物流向通知单 的出链列表"
+            }
+          },
+          {
+            "id": "85dddbcde4b20f63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "货物流向通知单 的反向链接列表"
+            }
+          },
+          {
+            "id": "ed981466fb8e2b3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,32 +169,30 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "excalidraw-cn:Create New Excalidraw File": false,
       "univer:Univer": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "30ad39d344485016",
+  "active": "ed6260e46e370639",
   "lastOpenFiles": [
-    "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-    "头寸管理-主流程数据流转说明/销售在途出仓单.md",
-    "头寸管理-主流程数据流转说明/业务.md",
+    "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
+    "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
+    "头寸管理-主流程数据流转说明/采购到货小提单.md",
+    "头寸管理-主流程数据流转说明/采购入仓单.md",
+    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
+    "头寸管理-主流程数据流转说明/销售出仓量价调整单.md",
     "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
+    "头寸管理-主流程数据流转说明/销售出仓单.md",
+    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
+    "头寸管理-主流程数据流转说明/销售在途出仓单.md",
+    "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
+    "头寸管理-主流程数据流转说明/业务.md",
     "头寸管理-主流程数据流转说明/境内&境外销售意向.md",
     "头寸管理-主流程数据流转说明/境内&境外采购意向.md",
     "头寸管理-主流程数据流转说明/货物流向通知单.md",
-    "头寸管理-主流程数据流转说明/采购到货小提单.md",
-    "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
-    "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
-    "头寸管理-主流程数据流转说明/采购入仓单.md",
-    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
-    "头寸管理-主流程数据流转说明/销售出仓单.md",
     "README.md",
-    "头寸管理-主流程数据流转说明/销售出仓量价调整单.md",
     "头寸管理-模型设计/码表字典.md",
     "excalidraw 25-01-16 03.10.07.ex",
     "Untitled.usheet",
