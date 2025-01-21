@@ -1,43 +1,25 @@
 {
   "main": {
-    "id": "5cb29f47031f2b77",
+    "id": "9772f60c2be4c8d0",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "358d8ab845c95aed",
+        "id": "09075f74e0421a35",
         "type": "tabs",
         "children": [
           {
-            "id": "30402b060ed2caca",
-=======
-        "id": "8107d066ae1c1a52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed6260e46e370639",
->>>>>>> 4880817435bf31aa967afd0145d1517ccfab9e00
+            "id": "4d4d3f81a44e6697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "头寸管理-主流程数据流转说明/销售在途出仓单.md",
+                "file": "头寸管理-主流程数据流转说明/在途货物流向通知单.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "销售在途出仓单"
-=======
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "货物流向通知单"
->>>>>>> 4880817435bf31aa967afd0145d1517ccfab9e00
+              "title": "在途货物流向通知单"
             }
           }
         ]
@@ -46,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d8841f05caf25cc",
+    "id": "2b7654e58256ffba",
     "type": "split",
     "children": [
       {
-        "id": "05acd5786baa65d0",
+        "id": "1e59ec76861ce8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd7cb37c913cb40",
+            "id": "f917772a97ac6c10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +48,7 @@
             }
           },
           {
-            "id": "e2accaae20e0ba82",
+            "id": "607bc2ab9277cf8e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +65,7 @@
             }
           },
           {
-            "id": "d1a672b258794922",
+            "id": "ccb33b6721493435",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,56 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7556b768a760f186",
+    "id": "2b6467b3275602a0",
     "type": "split",
     "children": [
       {
-        "id": "0e24c00e3fbb8c14",
+        "id": "40606e2de1331b70",
         "type": "tabs",
         "children": [
           {
-            "id": "71df81e97b5a21e3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md"
-              },
-              "icon": "lucide-list",
-              "title": "货物流向通知单 的大纲"
-            }
-          },
-          {
-            "id": "c336545fb4db0396",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "209cb2a061089ab4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "货物流向通知单 的出链列表"
-            }
-          },
-          {
-            "id": "85dddbcde4b20f63",
+            "id": "abb23932970cb86f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
+                "file": "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,11 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "货物流向通知单 的反向链接列表"
+              "title": "整体设计 excalidraw 25-01-13 06.20.57 的反向链接列表"
             }
           },
           {
-            "id": "ed981466fb8e2b3c",
+            "id": "6deeb4bd37eff05f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "整体设计 excalidraw 25-01-13 06.20.57 的出链列表"
+            }
+          },
+          {
+            "id": "7bbacffc8badf0f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,104 +133,61 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-<<<<<<< HEAD
           },
           {
-            "id": "71df81e97b5a21e3",
+            "id": "395c9773a3dd9b55",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "头寸管理-主流程数据流转说明/销售在途出仓单.md"
+                "file": "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex"
               },
               "icon": "lucide-list",
-              "title": "销售在途出仓单 的大纲"
+              "title": "整体设计 excalidraw 25-01-13 06.20.57 的大纲"
             }
-=======
->>>>>>> 4880817435bf31aa967afd0145d1517ccfab9e00
+          },
+          {
+            "id": "6a4f79b75ec5bd77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-<<<<<<< HEAD
-      "github-sync:Sync with Remote": false,
-=======
       "daily-notes:打开/创建今天的日记": false,
->>>>>>> 4880817435bf31aa967afd0145d1517ccfab9e00
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "univer:Univer": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "univer:Univer": false
     }
   },
-<<<<<<< HEAD
-  "active": "30402b060ed2caca",
+  "active": "4d4d3f81a44e6697",
   "lastOpenFiles": [
-    "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
-    "头寸管理-主流程数据流转说明/销售在途出仓单.md",
-    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
-    "头寸管理-主流程数据流转说明/销售出仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售意向.md",
-    "头寸管理-主流程数据流转说明/销售出仓量价调整单.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购意向.md",
-    "头寸管理-主流程数据流转说明/采购入仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
+    "README.md",
     "Untitled.usheet",
-    "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
-    "期现匹配/期现匹配工作台(公允价值).md",
-    "期现匹配/期现匹配工作台(现金流量).md",
-    "期现匹配",
-    "头寸管理-模型设计/采购对象（多头）.md",
-    "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
+    "头寸管理-主流程数据流转说明/在途货物流向通知单.md",
     "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
-    "头寸管理-模型设计/码表字典.md",
-    "README.md",
-    "头寸管理-主流程数据流转说明/货物流向通知单.md",
-    "头寸管理-主流程数据流转说明/采购到货小提单.md",
-    "头寸管理-主流程数据流转说明/业务.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-=======
-  "active": "c336545fb4db0396",
-  "lastOpenFiles": [
-    "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
-    "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
-    "头寸管理-主流程数据流转说明/采购到货小提单.md",
-    "头寸管理-主流程数据流转说明/采购入仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
-    "头寸管理-主流程数据流转说明/销售出仓量价调整单.md",
-    "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
-    "头寸管理-主流程数据流转说明/销售出仓单.md",
-    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
+    "价格管理/基础原理说明.md",
+    "期现匹配/期现匹配工作台(现金流量).md",
+    "期现匹配/期现匹配工作台(公允价值).md",
     "头寸管理-主流程数据流转说明/销售在途出仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-    "头寸管理-主流程数据流转说明/业务.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售意向.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购意向.md",
-    "头寸管理-主流程数据流转说明/货物流向通知单.md",
-    "README.md",
-    "头寸管理-模型设计/码表字典.md",
->>>>>>> 4880817435bf31aa967afd0145d1517ccfab9e00
-    "excalidraw 25-01-16 03.10.07.ex",
-    "头寸管理-主流程数据流转说明/未命名.canvas",
-    "头寸管理-模型设计",
-    "Untitled.xlsx",
-    "头寸管理-主流程数据流转说明/Excel 2025-01-14.sheet.md",
-    "Untitled.sheet",
-    "excalidraw 25-01-14 11.51.04.ex",
-    "Untitled.loom",
-    "头寸管理-主流程数据流转说明/Untitled.loom",
-    "头寸管理-主流程数据流转说明/Excel 2025-01-14.univer.md",
-    "头寸管理-主流程数据流转说明/1 采购合同 Excel 2025-01-14 11.36.18.univer.md",
-    "头寸管理-主流程数据流转说明/0 意向.md",
-    "价格管理/整体设计.md"
+    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
+    "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
+    "头寸管理-主流程数据流转说明/境内&境外销售发货.md"
   ]
 }
