@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "5cb29f47031f2b77",
+    "id": "9772f60c2be4c8d0",
     "type": "split",
     "children": [
       {
-        "id": "8107d066ae1c1a52",
+        "id": "5d05fa1d722d1c20",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6260e46e370639",
+            "id": "00aaf3d44e808edd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "货物流向通知单"
+              "title": "新标签页"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4d8841f05caf25cc",
+    "id": "2b7654e58256ffba",
     "type": "split",
     "children": [
       {
-        "id": "05acd5786baa65d0",
+        "id": "1e59ec76861ce8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd7cb37c913cb40",
+            "id": "f917772a97ac6c10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +43,7 @@
             }
           },
           {
-            "id": "e2accaae20e0ba82",
+            "id": "607bc2ab9277cf8e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +60,7 @@
             }
           },
           {
-            "id": "7a09f330959216a0",
+            "id": "ccb33b6721493435",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,56 +76,20 @@
     "width": 300
   },
   "right": {
-    "id": "7556b768a760f186",
+    "id": "2b6467b3275602a0",
     "type": "split",
     "children": [
       {
-        "id": "0e24c00e3fbb8c14",
+        "id": "40606e2de1331b70",
         "type": "tabs",
         "children": [
           {
-            "id": "71df81e97b5a21e3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md"
-              },
-              "icon": "lucide-list",
-              "title": "货物流向通知单 的大纲"
-            }
-          },
-          {
-            "id": "c336545fb4db0396",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "209cb2a061089ab4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "货物流向通知单 的出链列表"
-            }
-          },
-          {
-            "id": "85dddbcde4b20f63",
+            "id": "abb23932970cb86f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "头寸管理-主流程数据流转说明/货物流向通知单.md",
+                "file": "头寸数据流转-头寸先行单据/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "货物流向通知单 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
-            "id": "ed981466fb8e2b3c",
+            "id": "6deeb4bd37eff05f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "整体设计 excalidraw 25-01-13 06.20.57 的出链列表"
+            }
+          },
+          {
+            "id": "7bbacffc8badf0f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,9 +128,29 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "395c9773a3dd9b55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "6a4f79b75ec5bd77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,53 +158,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "github-sync:Sync with Remote": false,
       "excalidraw-cn:Create New Excalidraw File": false,
-      "univer:Univer": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "univer:Univer": false
     }
   },
-  "active": "c336545fb4db0396",
+  "active": "00aaf3d44e808edd",
   "lastOpenFiles": [
-    "头寸管理-主流程数据流转说明/采购到货磅差确认单.md",
-    "头寸管理-主流程数据流转说明/采购到货量价调整单.md",
-    "头寸管理-主流程数据流转说明/采购到货小提单.md",
-    "头寸管理-主流程数据流转说明/采购入仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购到货.md",
-    "头寸管理-主流程数据流转说明/销售出仓量价调整单.md",
-    "头寸管理-主流程数据流转说明/境内销售发货(便捷发货).md",
-    "头寸管理-主流程数据流转说明/销售出仓单.md",
-    "头寸管理-主流程数据流转说明/销售在途磅差确认单.md",
-    "头寸管理-主流程数据流转说明/销售在途出仓单.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售发货.md",
-    "头寸管理-主流程数据流转说明/业务.md",
-    "头寸管理-主流程数据流转说明/境内&境外销售意向.md",
-    "头寸管理-主流程数据流转说明/境内&境外采购意向.md",
-    "头寸管理-主流程数据流转说明/货物流向通知单.md",
-    "README.md",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-采购管理-采购明细表（采购入仓单）.xlsx",
+    "头寸数据流转-主流程单据/移仓到货单.md",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售主表&明细表（境内&境外销售合同）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售明细表（在途货物流向通知单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售明细表（销售在途出仓单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售明细表（销售在途磅差确认单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售明细表（销售出仓回单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-销售管理-销售明细表（境内&境外销售发货单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-采购管理-采购主表&明细表（境内&境外采购合同）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-采购管理-采购明细表（销售在途出仓单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-采购管理-采购明细表（销售在途磅差确认单）.xlsx",
+    "头寸数据流转-主流程单据/数据结构/XY-CTRM-采购管理-采购明细表（销售出仓回单）.xlsx",
+    "头寸数据流转-主流程单据/采购入仓单.md",
+    "头寸数据流转-主流程单据/境内销售发货(便捷发货).md",
+    "头寸数据流转-主流程单据/在途货物流向通知单.md",
+    "头寸数据流转-主流程单据/境内&境外采购合同.md",
+    "头寸数据流转-主流程单据/移仓申请单.md",
+    "头寸数据流转-主流程单据/移仓在途出仓单.md",
+    "头寸数据流转-主流程单据/移仓在途磅差确认单.md",
+    "头寸数据流转-头寸先行单据/README.md",
     "头寸管理-模型设计/码表字典.md",
-    "excalidraw 25-01-16 03.10.07.ex",
-    "Untitled.usheet",
-    "头寸管理-主流程数据流转说明/未命名.canvas",
+    "README.md",
+    "头寸数据流转-主流程单据/库存业务转移单.md",
+    "头寸数据流转-主流程单据/杂项入仓单.md",
+    "头寸数据流转-头寸先行单据/头寸业务转移单.md",
+    "头寸数据流转-主流程单据/境外采购小提单.md",
+    "头寸数据流转-主流程单据/境内&境外采购意向.md",
     "头寸管理-模型设计/采购对象（多头）.md",
-    "价格管理/整体设计 excalidraw 25-01-13 06.20.57.ex",
-    "头寸管理-模型设计",
-    "Untitled.xlsx",
-    "头寸管理-主流程数据流转说明/Excel 2025-01-14.sheet.md",
-    "Untitled.sheet",
-    "excalidraw 25-01-14 11.51.04.ex",
-    "Untitled.loom",
-    "头寸管理-主流程数据流转说明/Untitled.loom",
-    "头寸管理-主流程数据流转说明/Excel 2025-01-14.univer.md",
-    "头寸管理-主流程数据流转说明/1 采购合同 Excel 2025-01-14 11.36.18.univer.md",
-    "头寸管理-主流程数据流转说明/0 意向.md",
-    "头寸管理-主流程数据流转说明",
-    "价格管理/整体设计.md",
-    "欢迎.md"
+    "境外采购意向.md",
+    "未命名.canvas",
+    "价格管理/基础原理说明.md",
+    "头寸数据流转-主流程单据/销售出仓回单.md",
+    "头寸数据流转-头寸先行单据/采销头寸分配单.md",
+    "头寸数据流转-头寸先行单据/头寸锁定单.md",
+    "头寸数据流转-主流程单据/境内&境外销售发货.md",
+    "头寸数据流转-主流程单据/境内&境外销售意向.md",
+    "头寸数据流转-主流程单据/境内&境外销售合同.md"
   ]
 }

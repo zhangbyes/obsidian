@@ -1,6 +1,10 @@
 {
   "remoteURL": "https://github.com/zhangbyes/obsidian.git",
   "gitLocation": "",
+<<<<<<< HEAD
   "syncinterval": 15,
+=======
+  "syncinterval": 0,
+>>>>>>> ea718d3a13b72f55af4ad69bf549dbf2d3b3da30
   "isSyncOnLoad": false
 }
